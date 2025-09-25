@@ -8,6 +8,10 @@ This is a **frontend project** and does not require any backend or database.
 
 Open `index.html` in your browser to play the game.
 
+## Screenshots
+
+(C:\Users\hp\OneDrive\画像\Screenshots\Screenshot 2025-09-25 123639.png)
+
 ## How to Play
 
 1. Press any key to start the game.
