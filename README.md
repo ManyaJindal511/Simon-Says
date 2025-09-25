@@ -10,7 +10,7 @@ Open `index.html` in your browser to play the game.
 
 ## Screenshots
 
-(C:\Users\hp\OneDrive\画像\Screenshots\Screenshot 2025-09-25 123639.png)
+(Screenshot.png)
 
 ## How to Play
 
