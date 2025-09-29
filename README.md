@@ -6,7 +6,7 @@ This is a **frontend project** and does not require any backend or database.
 
 ## Demo
 
-Open `index.html` in your browser to play the game.
+Open `simonSays.html` in your browser to play the game.
 
 ## Screenshot
 
